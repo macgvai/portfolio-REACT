@@ -1,10 +1,17 @@
 import React from "react";
+import Header from "../layout/header/header";
+import Footer from "../layout/footer/footer";
+import Main from "../layout/main/main";
+import { GlobalStyle } from "./styles";
 
 function App() {
   return (
-    <div>
-      <span>привет</span>
-    </div>
+    <>
+      <GlobalStyle />
+      <Header />
+      <Main />
+      <Footer />
+    </>
   );
 }
 
