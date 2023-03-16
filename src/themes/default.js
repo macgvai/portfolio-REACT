@@ -1,7 +1,7 @@
 export const defaultTheme = {
-  fontColorBlack: "#333333",
+  fontColorBlack: "#000000",
   colorWhite: "#ffffff",
-  backgroundColorGray: "#f7f7f7",
+  backgroundColorMain: "#4d7c83",
   backgroundColorBlue: "#d8ecfe",
   panelBackgroundColor: "#88aa4d",
   panelBackgroundColorDanger: "#f75531",

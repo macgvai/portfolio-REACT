@@ -40,6 +40,7 @@ export const MenuItemLink = styled.a`
 export const MenuItemText = styled.span`
   font-size: 16px;
   font-weight: 700;
+  color: ${(props) => props.theme.fontColorBlack};
   position: relative;
   text-align: center;
   text-transform: uppercase;
