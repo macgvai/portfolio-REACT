@@ -15,10 +15,18 @@ export const GlobalStyle = createGlobalStyle`
     padding-left: calc(100vw - 100%);
     position: relative;
     min-height: 100%;
-    font-family: "Inter", "Arial", sans-serif;
-    font-size: 18px;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 22px;
     line-height: 27px;
     font-weight: 400;
     color: #333333;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  a {
+    text-decoration: none;
   }
 `;
