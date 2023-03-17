@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.994b9342.js",
-    "static/media/logoBg.png": "/static/media/logoBg.0e2b78847145ed96af6c.png",
-    "index.html": "/index.html",
-    "main.994b9342.js.map": "/static/js/main.994b9342.js.map"
+    "main.js": "/macgvai/portfolio-REACT/static/js/main.cb30fdfd.js",
+    "static/media/certHtmlacademy.png": "/macgvai/portfolio-REACT/static/media/certHtmlacademy.e7e03c39beea18c1d2e0.png",
+    "static/media/logoBg.png": "/macgvai/portfolio-REACT/static/media/logoBg.0e2b78847145ed96af6c.png",
+    "static/media/github.svg": "/macgvai/portfolio-REACT/static/media/github.450dfab8d3636ddb4fb012dbab3d42ff.svg",
+    "index.html": "/macgvai/portfolio-REACT/index.html",
+    "static/media/telegram.svg": "/macgvai/portfolio-REACT/static/media/telegram.63d1e77503d63b09ff946c3433a85dcb.svg",
+    "static/media/facebook.svg": "/macgvai/portfolio-REACT/static/media/facebook.4640272fa66e45593d9dbbcec08fccba.svg",
+    "main.cb30fdfd.js.map": "/macgvai/portfolio-REACT/static/js/main.cb30fdfd.js.map"
   },
   "entrypoints": [
-    "static/js/main.994b9342.js"
+    "static/js/main.cb30fdfd.js"
   ]
 }
