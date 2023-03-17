@@ -6,9 +6,6 @@ export const StyledFooter = styled.footer`
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: green;
 `;
 
-export const StyledFooterWrap = styled(Section)`
-  background-color: orange;
-`;
+export const StyledFooterWrap = styled(Section)``;

@@ -1,5 +1,5 @@
 import React from "react";
-import { StyledHeader, StyledHeaderWrap } from "./../header/styles";
+import { StyledHeader, StyledHeaderWrap } from "./styles";
 import Logo from "../../ui/logo/logo";
 import MainNav from "../../ui/nav/nav";
 

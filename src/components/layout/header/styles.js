@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { Section } from "./../../styled/index";
 
 export const StyledHeader = styled.header`
-  background-color: ${(props) => props.theme.backgroundColorMain};
+  // background-color: ${(props) => props.theme.backgroundColorMain};
 `;
 
 export const StyledHeaderWrap = styled(Section)`
