@@ -11,7 +11,7 @@ function MainNav() {
   return (
     <MenuItemList>
       <MenuItemItem>
-        <MenuItemLink to="/about">
+        <MenuItemLink to="/">
           <MenuItemText>Обо мне</MenuItemText>
         </MenuItemLink>
       </MenuItemItem>

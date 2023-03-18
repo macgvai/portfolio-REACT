@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "../layout/header/header";
 import Footer from "../layout/footer/footer";
 import About from "../pages/about/about";
@@ -10,14 +10,14 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <BrowserRouter>
+      <Router>
         <Header />
         <Routes>
-          <Route path="/about" element={<About />}></Route>
+          <Route path="/" element={<About />}></Route>
           <Route path="/portfolio" element={<Portfolio />}></Route>
         </Routes>
         <Footer />
-      </BrowserRouter>
+      </Router>
     </>
   );
 }

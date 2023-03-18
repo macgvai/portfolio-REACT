@@ -5,7 +5,7 @@ function Social() {
   return (
     <SocialWrap>
       <SocialLinkFB
-        href="https://ru-ru.facebook.com/"
+        href="https://www.facebook.com/StupitsynViktor/"
         target="_blank"
         rel="noreferrer"
       ></SocialLinkFB>
