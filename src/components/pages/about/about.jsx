@@ -20,7 +20,15 @@ function About() {
         </AboutTextP>
         <AboutTextP>
           С января 2022 по февраль 2023 проходил курс «Профессия
-          Frontend-разработчик» от htmlacademy и успешно прошел грейдирование.
+          Frontend-разработчик» от{" "}
+          <a
+            href="https://htmlacademy.ru/profession/frontender"
+            target="_blank"
+            rel="noreferrer"
+          >
+            htmlacademy
+          </a>{" "}
+          и успешно прошел грейдирование.
         </AboutTextP>
         <AboutTextP>
           В данный момент изучаю Typescript и продолжаю совершенствовать навыки
